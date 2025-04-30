@@ -1,0 +1,3 @@
+python -m venv example-venv #建立venv+取名
+pip freeze > requirements.txt #輸出套件
+deactivate #退出venv

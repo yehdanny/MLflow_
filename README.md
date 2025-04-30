@@ -52,6 +52,7 @@ MLflow 適用於任何需追蹤實驗與模型的工作流程，例如：
   mlflow server --host 127.0.0.1 --port 8080  # 另開服務於 http://127.0.0.1:8080
 
 ## Note : 
+- [Gamma-ppt](https://gamma.app/docs/MLOPs-nbr4i3h73gicdxi?mode=doc)
 - [mlflow-param](./01_mlfow_基本參數/基本.md)
 
 ## Reference : 
